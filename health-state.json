@@ -13,8 +13,8 @@
       "last_status": "异常"
     },
     "88.lxmusic.xn--fiqs8s": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "a.aa.cab": {
       "consecutive_failures": 2,
@@ -25,8 +25,8 @@
       "last_status": "异常"
     },
     "api-v2.yuafeng.cn": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "api.317ak.cn": {
       "consecutive_failures": 0,
@@ -69,8 +69,8 @@
       "last_status": "异常"
     },
     "api.nki.pw": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "api.vkeys.cn": {
       "consecutive_failures": 0,
@@ -118,7 +118,7 @@
     },
     "cyapi.top": {
       "consecutive_failures": 0,
-      "last_status": "可用"
+      "last_status": "异常"
     },
     "dl.stream.qqmusic.qq.com": {
       "consecutive_failures": 0,
@@ -229,8 +229,8 @@
       "last_status": "可用"
     },
     "tang.api.s01s.cn": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "u.y.qq.com": {
       "consecutive_failures": 0,
@@ -241,8 +241,8 @@
       "last_status": "异常"
     },
     "www.kugou.com": {
-      "consecutive_failures": 0,
-      "last_status": "可用"
+      "consecutive_failures": 1,
+      "last_status": "异常"
     },
     "wwwapi.kugou.com": {
       "consecutive_failures": 0,
@@ -289,10 +289,10 @@
     "ikun": "失效",
     "jiexiang": "可用",
     "juhe": "异常",
-    "lx": "可用",
+    "lx": "异常",
     "qdy": "可用",
     "xinghai": "可用",
     "yuningxi": "可用"
   },
-  "updated_at": "2026-11-18 07:43"
+  "updated_at": "2026-11-24 11:08"
 }
